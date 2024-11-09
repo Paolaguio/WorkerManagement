@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kgRckLfbU71tv07eRFz+eTIakLPEJzjTTNlcTEGYgOk=",
+  "Source": "WorkerManagement",
+  "BasePath": "_content/WorkerManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
